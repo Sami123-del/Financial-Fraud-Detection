@@ -72,6 +72,9 @@ class DataHandler:
         df.reset_index(inplace=True, drop=True)
 
         return df
+<<<<<<< HEAD
         
 
+=======
+>>>>>>> 2918d60236189009a5b9844d2bd21b9e5c8c762c
         
